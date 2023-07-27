@@ -8,9 +8,7 @@
 *DSNai - Data Science Nigeria | Machine Learning Engineer | GIS Data Specialist*
 <br>
 <br>
-This analysis will identify patterns determining the successful game based on several indicators. We will spot potential big winners for the next advertising campaign planning. This analysis will use genre, platform, rating, and game sales indicators.<br>
-<br>
-There is no information about the quality of the data. Thus, we will evaluate the quality of the data and see whether its issues are significant. By conducting data preprocessing, we will account for the most critical problems. After that, we can test the hypotheses through a statistical test.
+This analysis will identify patterns determining the successful game based on several indicators. We will spot potential big winners for the next advertising campaign planning. This analysis will use genre, platform, rating, and game sales indicators.<br>There is no information about the quality of the data. Thus, we will evaluate the quality of the data and see whether its issues are significant. By conducting data preprocessing, we will account for the most critical problems. After that, we can test the hypotheses through a statistical test.
 
 ## Project 3
 
